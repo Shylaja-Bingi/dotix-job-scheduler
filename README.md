@@ -3,7 +3,6 @@
 >> 
 >> ## 📦 Repository
 >> - **GitHub:** https://github.com/Shylaja-Bingi/dotix-job-scheduler
->> - **Live Demo:** [Add deployment link if available]
 >> 
 >> ## 👩‍💻 Author
 >> **Shylaja Bingi**  
