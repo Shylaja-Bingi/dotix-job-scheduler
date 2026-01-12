@@ -110,4 +110,8 @@
 >> npx prisma generate
 >> npx prisma db push
 >> npm run dev
->>
+>> 
+>> ### AI Usage:
+- ChatGPT for project structure guidance
+- All implementation done manually
+- Full disclosure in README.md
